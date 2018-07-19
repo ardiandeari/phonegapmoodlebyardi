@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.en4life.moodle"
         versionCode = "35100"
         android-versionCode="35100"
         version   = "3.5.1">
-    <name>Moodle</name>
+    <name>E4L Exam</name>
 
     <description>
-        Moodle official app
+        English For Life official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://englishforlife.mk" email="info@englishforlife.mk">
+        En4Life Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
